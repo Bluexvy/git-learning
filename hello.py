@@ -1,4 +1,5 @@
 print("Welcome to Git!")
+print("你好，Git！")
 print("I am learning git.")
 print("This change should stay.")
 print("This line was missing.")
