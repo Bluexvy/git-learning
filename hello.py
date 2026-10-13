@@ -1,4 +1,4 @@
-print("hello, git!")
+print("Welcome to Git!")
 print("I am learning git.")
 print("This change should stay.")
 print("This line was missing.")
